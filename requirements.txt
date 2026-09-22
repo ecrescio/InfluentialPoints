@@ -1,2 +1,5 @@
 streamlit
 matoplotlib
+numpy
+statsmodels
+pandas
